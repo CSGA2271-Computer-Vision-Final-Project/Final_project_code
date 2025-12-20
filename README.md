@@ -19,6 +19,9 @@ factors for achieving robust segmentation. Our findings provide practical insigh
 for researchers working with limited data and computational resources in medical
 image segmentation tasks.
 
+## Files
+The best model file contains two notebooks corresponding to the best model trained from scratch and best model with pretrain weight. Other models we experimented are included in the file of other model
+
 ## Downloading BraTS 2024 Data (Synapse)
 
 BraTS 2024 challenge data is hosted on **Synapse** under the BraTS 2024 Challenge project (**syn53708249**). :contentReference[oaicite:0]{index=0}
