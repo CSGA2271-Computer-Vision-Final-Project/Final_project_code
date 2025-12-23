@@ -46,7 +46,6 @@ If you still cannot download after those steps, check the Synapse discussion “
 - **Validation zip:** `syn61455507` (BraTS2024-BraTS-GLI-ValidationData.zip) :contentReference[oaicite:8]{index=8}
 - **Citations file:** `syn59808905` (CITATIONS.bib) :contentReference[oaicite:9]{index=9}
 
-> Note: In BraTS, ground-truth labels are provided for training, while validation typically comes without GT labels; test data is hidden/not publicly downloadable. :contentReference[oaicite:10]{index=10}
 
 ### 2) Download option A: Synapse web UI
 1. Log into Synapse.
